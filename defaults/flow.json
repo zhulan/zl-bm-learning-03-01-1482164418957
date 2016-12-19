@@ -93,7 +93,7 @@
 			"id" : "8e1706a.f71e8f8",
 			"type" : "template",
 			"z" : "c3806c66.3c7f9",
-			"name" : "danger",
+			"name" : "dangerr",
 			"template" : "Temperature ({{payload}}) critical. You will need to take safety measures. ABC",
 			"x" : 620,
 			"y" : 420,
