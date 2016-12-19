@@ -94,7 +94,7 @@
 			"type" : "template",
 			"z" : "c3806c66.3c7f9",
 			"name" : "danger",
-			"template" : "Temperature ({{payload}}) critical",
+			"template" : "Temperature ({{payload}}) critical. You will need to take safety measures.",
 			"x" : 620,
 			"y" : 420,
 			"wires" : [ [ "5dad02b7.a252fc" ] ]
