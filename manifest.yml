@@ -1,0 +1,11 @@
+applications:
+- path: .
+  memory: 512M
+  instances: 1
+  domain: mybluemix.net
+  name: zl-bm-learning-03-01
+  host: zl-bm-learning-03-01
+  disk_quota: 1024M
+  services:
+  - zl-bm-learning-03-01-cloudantNoSQLDB
+  - zl-bm-learning-03-01-iotf-service
